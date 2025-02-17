@@ -1,0 +1,281 @@
+/* Sign in */
+
+position: relative;
+width: 478px;
+height: 914px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #B9BF48;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 122px;
+height: 44px;
+left: 177.9px;
+top: 42.95px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 364px;
+height: 46px;
+left: 57px;
+top: 368px;
+
+background: #D9D9D9;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* 360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8 1 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 78px;
+top: 372px;
+
+background: url(360_F_229758328_7x8jwCwjtBMmC6rgFzLFhZoEpLobB6L8.jpg);
+
+
+/* user name */
+
+position: absolute;
+width: 236px;
+height: 43px;
+left: 144px;
+top: 368px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 364px;
+height: 46px;
+left: 57px;
+top: 447px;
+
+background: #D9D9D9;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* images 1 */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 78px;
+top: 452px;
+
+background: url(images.png);
+
+
+/* password */
+
+position: absolute;
+width: 169px;
+height: 38px;
+left: 143px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 232px;
+height: 48px;
+left: 123px;
+top: 561px;
+
+background: rgba(14, 250, 231, 0.5);
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Login */
+
+position: absolute;
+width: 126px;
+height: 32px;
+left: 165px;
+top: 567px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Forgot Your Password */
+
+position: absolute;
+width: 212px;
+height: 23px;
+right: 57px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 144px;
+height: 0px;
+left: 57px;
+top: 677px;
+
+border: 3px solid #000000;
+transform: rotate(0.4deg);
+
+
+/* or */
+
+position: absolute;
+width: 29px;
+height: 25px;
+left: 224px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 148px;
+height: 0px;
+left: 273px;
+top: 677px;
+
+border: 3px solid #000000;
+
+
+/* google 1 */
+
+position: absolute;
+width: 69px;
+height: 69px;
+left: 101px;
+top: 738px;
+
+background: url(google.png);
+border-radius: 20px;
+
+
+/* face book 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 67px;
+height: 69px;
+left: 210px;
+top: 738px;
+
+background: url(face book.png);
+border: 1px solid #1815E9;
+border-radius: 12px;
+
+
+/* linkedin1 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 64px;
+height: 69px;
+left: 317px;
+top: 738px;
+
+background: url(linkedin1.jpg);
+border: 1px solid #0920F4;
+border-radius: 10px;
+
+
+/* Don’t Have An Account. Sign Up */
+
+position: absolute;
+width: 377px;
+height: 24px;
+left: 44px;
+top: 841px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* user1 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 194px;
+left: 142px;
+top: 140px;
+
+background: url(user1.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
